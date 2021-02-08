@@ -30,7 +30,7 @@ const DefaultLayout = ({ children }) => (
       <div className="wrapper">
         <Helmet>
           <link
-            href="https://fonts.googleapis.com/css?family=Lato|PT+Serif&display=swap"
+            href="https://fonts.googleapis.com/css?family=Verdana|Sans+Serif&display=swap"
             rel="stylesheet"
           />
         </Helmet>
