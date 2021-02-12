@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Flexible Gatsby`,
-    description: `Psychologist in tech`,
+    title: `Blog - Digital Marketing for Applications`,
+    description: `Strategic tech marketing and some tips.`,
     author: `Tom Novacek`,
     siteUrl: `https://github.com/wangonya/flexible-gatsby`,
     social: {
@@ -72,7 +72,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `./static/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `./static/smiley.png`, // This path is relative to the root of the site.
       },
     },
     // `gatsby-plugin-offline`,
