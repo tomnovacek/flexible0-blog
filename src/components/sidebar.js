@@ -13,8 +13,18 @@ const Sidebar = ({ siteMetadata }) => (
               <img src={Logo} alt={siteMetadata.author} />
             </Link>
           </div>
-          <div className="author-name">{siteMetadata.author}</div>
+          <div className="author-name">
+            {siteMetadata.author}
+          </div>
           <p>{siteMetadata.description}</p>
+          <Link to ="/">
+            <i className="fa fa-home" aria-hidden="true" />
+          </Link>
+        </div>
+        <div className="tags">
+          <span className="side-tags"><a className="tags" href="/tags/seo">#seo</a></span>
+          <span className="side-tags"><a className="tags" href="/tags/tips">#tips</a></span>
+          <span className="side-tags"><a className="tags" href="/tags/ux">#ux</a></span>
         </div>
       </header>
       <footer>
