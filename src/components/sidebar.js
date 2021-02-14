@@ -21,10 +21,32 @@ const Sidebar = ({ siteMetadata }) => (
             <i className="fa fa-home" aria-hidden="true" />
           </Link>
         </div>
-        <div className="tags">
-          <span className="side-tags"><a className="tags" href="/tags/seo">#seo</a></span>
-          <span className="side-tags"><a className="tags" href="/tags/tips">#tips</a></span>
-          <span className="side-tags"><a className="tags" href="/tags/ux">#ux</a></span>
+        <div className="topics">
+          <div className="project-structure">
+            <h4>
+            Main topics
+            </h4>
+            <ul>
+              <li>Idea</li>
+              <li>Market</li>
+              <li>Customer</li>
+              <li>Dev priorities</li>
+              <li>Tactics</li>
+              <li>Organic traffic</li>
+              <li>Social networks</li>
+              <li>Email marketing</li>
+              <li>Customer feedback</li>
+              <li>KPIs, </li>
+            </ul>
+          </div>
+          <div className="project-structure">
+            <h4>
+            Tags
+            </h4>
+            <span className="side-tags"><a className="tags" href="/tags/seo">#seo</a></span>
+            <span className="side-tags"><a className="tags" href="/tags/tips">#tips</a></span>
+            <span className="side-tags"><a className="tags" href="/tags/ux">#ux</a></span>
+          </div>
         </div>
       </header>
       <footer>
