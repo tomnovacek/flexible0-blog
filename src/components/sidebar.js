@@ -36,7 +36,7 @@ const Sidebar = ({ siteMetadata }) => (
               <li>Email marketing</li>
               <li><a href="/ux-metrics">User experience</a></li>
               <li>KPIs and OKRs </li>
-              <li>Tools for B2B SAAS</li>
+              <li><a href="/tooling">Tools for B2B SAAS</a></li>
             </ul>
           </div>
           <div className="project-structure">
