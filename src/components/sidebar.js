@@ -16,15 +16,37 @@ const Sidebar = ({ siteMetadata }) => (
           <div className="author-name">
             {siteMetadata.author}
           </div>
-          <p>{siteMetadata.description}</p>
           <Link to ="/">
             <i className="fa fa-home" aria-hidden="true" />
           </Link>
+          <p>{siteMetadata.description}</p>
         </div>
-        <div className="tags">
-          <span className="side-tags"><a className="tags" href="/tags/seo">#seo</a></span>
-          <span className="side-tags"><a className="tags" href="/tags/tips">#tips</a></span>
-          <span className="side-tags"><a className="tags" href="/tags/ux">#ux</a></span>
+        <div className="topics">
+          <div className="project-structure">
+            <h4>
+            Topics
+            </h4>
+            <ul>
+              <li>Idea making</li>
+              <li>Product market fit</li>
+              <li>Dev priorities</li>
+              <li>Mix</li>
+              <li><a href="/seo-2021">SEO</a></li>
+              <li><a href="/keywords">Keywords</a></li>
+              <li>Email marketing</li>
+              <li><a href="/ux-metrics">User experience</a></li>
+              <li>KPIs and OKRs </li>
+              <li>Tools for B2B SAAS</li>
+            </ul>
+          </div>
+          <div className="project-structure">
+            <h4>
+            Tags
+            </h4>
+            <span className="side-tags"><a className="tags" href="/tags/seo">#seo</a></span>
+            <span className="side-tags"><a className="tags" href="/tags/tips">#tips</a></span>
+            <span className="side-tags"><a className="tags" href="/tags/ux">#ux</a></span>
+          </div>
         </div>
       </header>
       <footer>
