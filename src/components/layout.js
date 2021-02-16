@@ -2,14 +2,9 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { StaticQuery, graphql } from 'gatsby'
 import Helmet from 'react-helmet'
-import { hotjar } from 'react-hotjar';
 import Sidebar from '.././components/sidebar'
 import '../styles/main.scss'
 import '../styles/fonts/font-awesome/css/font-awesome.min.css'
-
-componentDidMount() {
-  hotjar.initialize(2249768, 6);
-}
 
 const DefaultLayout = ({ children }) => (
   <StaticQuery
