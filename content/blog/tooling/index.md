@@ -2,7 +2,7 @@
 title: Tools for digital marketing
 date: 2021-02-17
 description: Tools for digital marketing.
-img: ./ces-csat-nps.png # Add image post (optional)
+img: ./tools-logos.png # Add image post (optional)
 tags: [tools]
 ---
 

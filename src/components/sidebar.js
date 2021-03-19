@@ -27,10 +27,11 @@ const Sidebar = ({ siteMetadata }) => (
             Topics
             </h4>
             <ul>
-              <li>Idea making</li>
-              <li>Product market fit</li>
-              <li>Dev priorities</li>
-              <li>Mix</li>
+              <li><a href="/idea-making">Idea making</a></li>
+              <li><a href="/product-market-fit">Product market fit</a></li>
+              <li><a href="/dev-priorities">Dev priorities</a></li>
+              <li><a href="/mix">Mix (Channels)</a></li>
+              <li><a href="/funnel">Funnel</a></li>
               <li><a href="/seo-2021">SEO</a></li>
               <li><a href="/keywords">Keywords</a></li>
               <li>Email marketing</li>
