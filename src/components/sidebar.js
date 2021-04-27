@@ -24,18 +24,20 @@ const Sidebar = ({ siteMetadata }) => (
         <div className="topics">
           <div className="project-structure">
             <h4>
-            Topics
+            Digital product
             </h4>
             <ul>
-              <li><a href="/idea-making">Idea making</a></li>
-              <li><a href="/product-market-fit">Product market fit</a></li>
-              <li><a href="/dev-priorities">Dev priorities</a></li>
-              <li><a href="/mix">Mix (Channels)</a></li>
-              <li><a href="/funnel">Funnel</a></li>
-              <li><a href="/seo-2021">SEO</a></li>
-              <li><a href="/keywords">Keywords</a></li>
-              <li>Email marketing</li>
+              <li><a href="/product-management">Product management</a></li>
               <li><a href="/ux-metrics">User experience</a></li>
+              <li><a href="/design-thinking">Design thinking</a></li>
+              <li><a href="/dev-priorities">Dev priorities</a></li>
+              <li><a href="/product-market-fit">Product market fit</a></li>
+              <li><a href="/funnel">Funnel</a></li>
+              <li><a href="/mix">Mix (Channels)</a></li>
+              <li><a href="/keywords">Keywords</a></li>
+              <li><a href="/seo-2021">SEO</a></li>
+              <li>Social networks</li>
+              <li>Email marketing</li>
               <li>KPIs and OKRs </li>
               <li><a href="/tooling">Tools for B2B SAAS</a></li>
             </ul>

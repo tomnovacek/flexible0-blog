@@ -2,11 +2,15 @@
 title: Development priorities
 date: 2021-02-19
 description: Methods for prioritizing development
-img: ./rice.jpeg # Add image post (optional)
+img: ./road-map-timeline.png # Add image post (optional)
+credit: Image from Product Board Application
 tags: [planning]
 ---
-<small>Image source: [UX design](https://uxdesign.cc/aligning-product-management-and-product-marketing-efforts-8b48cbfa8a9a)</small>
+## Product management tools
 
+### Product Board
+
+### Click up
 ## Prioritization tools
 
 ### Eisenhower matrix
@@ -18,6 +22,8 @@ tags: [planning]
 * ICE (impact * confidence * ease; 1-10 each)
 
 ### RICE scoring
+
+![Rice](./rice.jpeg)
 
 * reach - how many people will notice the change
 * impact
@@ -45,3 +51,8 @@ tags: [planning]
 ## Feature Bucket**
 
 ## KJ method**
+
+
+## References
+
+[Product Board](https://support.productboard.com/hc/en-us/articles/360056294114-6-Roadmap-Communicate-your-plan)

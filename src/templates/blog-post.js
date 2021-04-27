@@ -30,6 +30,7 @@ class BlogPostTemplate extends React.Component {
                   </figure>
                 </div>
               )}
+              <div className="img-credit">{post.frontmatter.credit}</div>
               <div className="wrap-content">
                 <header className="header-page">
                   <h1 className="page-title">{post.frontmatter.title}</h1>
@@ -75,6 +76,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "YYYY, MMM DD")
         tags
+        credit
         img {
           childImageSharp {
             fluid(maxWidth: 3720) {
