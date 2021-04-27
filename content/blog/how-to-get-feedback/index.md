@@ -1,45 +1,27 @@
 ---
-title: What do they need?
+title: How to get customer feedback?
 date: 2021-02-19
-description: How to get customer feedback
+description: Reasons why customers give feedbach, why don't, and what to do about it.
 img: ./feedback-graph.png # Add image post (optional)
 tags: [customers, feedback, UX]
 ---
-## Why it is important
-
-Keneth Blanchart
-https://howwelead.org/2015/01/07/feedback-is-the-breakfast-of-champions-2/
-
-1. Understand what drives customers to your website
-2. Understand what stops your customers from converting
-3. Understand what persuades your customers to convert
-4. Improve your product
-5. Improve your website
-6. Improve your sales and customer service
-7. Measure customer satisfaction through customer feedback surveys
-8. Build customer relationships and show you care
-9. Improve customer retention
-10. Fine-tune your pricing strategy
-11. Understand your competition
-https://www.hotjar.com/blog/customer-feedback/
-
-
 ## Why their opinion matters
 
-Who brings the money?
-Best possible experience for prospects and customers.
-What they think
-Show their opinions matters
-Opinion from outside
-Learn the trends
-How to improve products and services
+- Who brings the money?
+- Best possible experience for prospects and 
+- customers.
+- Opinion from outside
+- Learn the trends
+- How to improve products and services
 
 
 ## Why do they give feedback?
+
 According to a whitepaper by TFM&A Insights, most customers give feedback because they want to express their opinion (64%). More specifically, they do so to let companies know where they were doing poorly (57%) or well (49%)
 ![Feedback graph](./feedback-graph.png)
 
 ## Why they don't want to give you feedback
+
 [Johan Leitner](https://www.touchwork.com/the-top-5-reasons-your-customers-dont-provide-feedback/) discuss these main reason:
 The wrong design
 - too long, (try two to three questions)
@@ -58,9 +40,7 @@ Timing https://customerthink.com/why-you-need-to-capture-customer-feedback-in-re
 
 Make them feel important
 
-Keep them involved, invite them to your project. Make them part of your company’s growth story
-
-You do not want to 
+Keep them involved, invite them to your project. Make them a part of your company’s growth story
 
 Use the nature customer interaction
 
@@ -68,12 +48,11 @@ When they are emotionally connected
 
 When you do something extraordinary
 
+>&#128161; **Example:** You offer a trial period for your product. You can offer extending your trial. When you ask for a feedback when extending, you increase probability of receiving an opinion from a customer who has been given something special.
 
 How they found you
 
-
 Buyer personas
-
 
 ## Target group
 
@@ -87,58 +66,40 @@ Buyer personas
 
 ### Renewing?
 
+### Loyal customers
 
-
-## Sources
-
-### Email
-
-### On-site visitors
-
-### Support follow up
-
-### Live chat
-
-### Survey form
-Subject
-
-### Social media polls
-
-### Reviews
-
+### Brand advocates
 
 ## Methods
-On-site activity
-Instant feedback from the website
-Feedback surveys
-Social media
-Email forms
-Usability tests
-Exploratory customer interviews
+
+- On-site activity
+- Instant feedback from the website (link, live chat)
+- Feedback surveys
+- Social media
+- Email forms
+- Usability tests
+- Exploratory customer interviews
+- Customer review
+- Support follow up
 
 ## Techniques
-CES
-CSAT
-NPS
-5 Whys
 
+- CES
+- CSAT
+- NPS
+- 5 Whys
 
 ## Recommendations
-keep it short
-ask only question you are going to use
-do not be too personal
-use the information
-sort it, interpret it properly
-offer somethin in return
+
+- keep it short
+- show them their opinion matters
+- make them feel important (they are)
+- ask only question you are going to use
+- do not be too personal
+- use the information
+- sort it, interpret it properly
+- offer something in return
 https://adoric.com/blog/customer-feedback/
-
-Best practices
-
-Goal
-
-
-
-
 
 ## Sources
 1. https://www.touchwork.com/the-top-5-reasons-your-customers-dont-provide-feedback/

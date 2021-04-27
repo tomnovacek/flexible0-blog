@@ -3,7 +3,7 @@ module.exports = {
     title: `Blog - Digital Marketing for Applications`,
     description: `Strategic tech marketing and some tips.`,
     author: `Tom Novacek`,
-    siteUrl: `https://github.com/wangonya/flexible-gatsby`,
+    siteUrl: `https://tomnovacek.com`,
     social: {
       twitter: `tomnovacek`,
       facebook: `novacektom`,
@@ -74,8 +74,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `flexible-gatsby-starter`,
-        short_name: `flexible-gatsby`,
+        name: `Tom's blog about digital product management`,
+        short_name: `blog`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#663399`,
